@@ -1,3 +1,2 @@
-title: "Lx"
-
-date:2020-04-01
+title: "L"
+date: 2020-04-01
